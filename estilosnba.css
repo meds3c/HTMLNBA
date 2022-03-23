@@ -1,0 +1,71 @@
+#cabecera{
+font-family:sans-serif;
+color: white;
+background-color: #0a3665;
+width: 30%;
+}
+
+#h1 span{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#h2{
+    text-align: center;
+    font-family: 'Lucida Sans'
+    font-size: 2em;
+    font-weight: 600;
+}
+
+#eastern, #western {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+/*IMAGENES*/
+
+
+.equipos{
+    width: 5%;
+    margin: 0.5%;
+}
+
+.banners{
+    
+    width: 100%;
+}
+    
+
+
+
+
+
+/*NAVEGACIÓN*/
+
+#navegacion{
+    text-align: center;
+    background-color: #096aaf;
+    margin-bottom:75px;
+    font-family: Open Sans,sans-serif;
+    font-size: medium;
+}
+
+#navegacion ul{
+    list-style: none;
+    margin-top: 0; 
+    padding: 15px;
+}
+
+#navegacion ul a{
+    text-decoration: none;    
+}
+
+#navegacion ul li{
+    display: inline;
+    color: white;
+    padding: 15px 20px;
+    font-size: 1em;
+}
+
+#navegacion ul a li:hover{
+    background-color: gray;
+}
